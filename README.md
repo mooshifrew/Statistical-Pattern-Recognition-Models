@@ -1,7 +1,7 @@
 # Statistical-Pattern-Recognition-Models
 Building classifiers using statistical ML models
 
-This project involved generating normally distributed clusters of data, implementing five classifiers (MED, MICD/GED, MAP, NN, kNN), comparing decision boundaries, and comparing results
+This project involved generating normally distributed clusters of data, implementing five classifiers (MED, MICD/GED, MAP, NN, kNN), plotting decision boundaries, and comparing results.
 
 Data: 
 ![image](https://user-images.githubusercontent.com/23649910/221669287-52e5c5eb-129d-494d-b460-4e464f8e5abe.png)
